@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 5f25ac6ddfa4a2d4bb08ba1994361e55
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arrowHeadGraySprite: {fileID: 21300000, guid: ec12f142743f4ec40b97e036c34e1f05,
+      type: 3}
+  - arrowBodyGraySprite: {fileID: 21300000, guid: ec12f142743f4ec40b97e036c34e1f05,
+      type: 3}
+  - arrowHeadGreenSprite: {fileID: 21300000, guid: 367ce26e7e2969547b72b8ecf01eabd9,
+      type: 3}
+  - arrowBodyGreenSprite: {fileID: 21300000, guid: 367ce26e7e2969547b72b8ecf01eabd9,
+      type: 3}
+  - arrowHeadRedSprite: {fileID: 21300000, guid: e156240a5ca89ef48b7a7741acf1c6be,
+      type: 3}
+  - arrowBodyRedSprite: {fileID: 21300000, guid: e156240a5ca89ef48b7a7741acf1c6be,
+      type: 3}
+  - arrowHeadPrefab: {fileID: 1013114767894120, guid: ef58ff5518cc9e349ad4197ae1c5b70e,
+      type: 3}
+  - arrowBodyPrefab: {fileID: 1443724389814156, guid: 1793153e035229140bdd63a88a28efb4,
+      type: 3}
+  - drawBtn: {instanceID: 0}
+  - discardBtn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
